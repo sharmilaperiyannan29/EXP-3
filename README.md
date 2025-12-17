@@ -1,6 +1,5 @@
-<img width="1556" height="833" alt="Screenshot 2025-12-17 082518" src="https://github.com/user-attachments/assets/a1f2b7fe-eb1c-4148-bd14-f4ab43dac84b" /># EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
 
+EXPT NO: 3				STAIR CASE WIRING                     
  
 AIM
  To control the status of the given lamp by using two–way switches. 
